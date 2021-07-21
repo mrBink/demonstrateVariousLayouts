@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestAlignments</string>
+    <string name="btnt2">btnt2</string>
+    <string name="btnt1">btnt1</string>
+    <string name="btnt3">btnt3</string>
+    <string name="myScene">myScene</string>
+    <string name="grunge">grunge</string>
+    <string name="this_is_to_demonstrate_various_size_layouts">this is to demonstrate various size layouts</string>
+    <string name="this_is_a_hint">this is a hint</string>
+</resources>
